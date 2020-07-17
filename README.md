@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 ## Get in touch :mailbox:
 
 * :point_right: Twitter: <https://twitter.com/AndrzejDubaj>
-* Instagram: <https://instagram.com/dubajandrzej>
-* LinkedIn: <https://www.linkedin.com/in/andrzejdubaj/>
-* Blog: <https://www.handsonprogramming.io/>
+* :point_right: Instagram: <https://instagram.com/dubajandrzej>
+* :point_right: LinkedIn: <https://www.linkedin.com/in/andrzejdubaj/>
+* :point_right: Blog: <https://www.handsonprogramming.io/>
