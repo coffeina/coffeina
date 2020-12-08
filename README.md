@@ -1,4 +1,4 @@
-### Hi is what I'm Working On! 👋
+### Define Design Develop Automate 👋 
 
 Here are some ideas to get you started:
 
