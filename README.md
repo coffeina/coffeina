@@ -1,4 +1,5 @@
 ### Define Design Develop Automate 👋 
+![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e)
 
 Here are some ideas to get you started:
 
@@ -10,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... :P
 
-![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e)
 
 ## Get in touch :mailbox:
 
