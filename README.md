@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... :P
 
+![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e)
+
 ## Get in touch :mailbox:
 
 * :point_right: Twitter: <https://twitter.com/AndrzejDubaj>
