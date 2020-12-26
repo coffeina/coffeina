@@ -1,5 +1,4 @@
 # Define Design Develop Automate
-![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e)
 
 * Full Stack Engineer
 * Rev Engineering
@@ -7,11 +6,7 @@
 * Robotics
 * InfoSec
 
-# Get in touch
-
-* Twitter: <https://twitter.com/AndrzejDubaj>
-* LinkedIn: <https://www.linkedin.com/in/andrzejdubaj/>
-* Blog: <https://www.handsonprogramming.io/>
+![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e)
 
 ``` asm
 section .rodata
@@ -27,3 +22,9 @@ section .text
         mov rax, 1
         syscall
 ```
+
+# Get in touch
+
+* Twitter: <https://twitter.com/AndrzejDubaj>
+* LinkedIn: <https://www.linkedin.com/in/andrzejdubaj/>
+* Blog: <https://www.handsonprogramming.io/>
