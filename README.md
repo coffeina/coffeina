@@ -14,30 +14,16 @@
 * Blog: <https://www.handsonprogramming.io/>
 
 ``` asm
-%define sys_write 1
-%define stdout 1
-
-%define sys_exit 60
-%define success 0
-
-%define nl 10
-
-section .data
-
-    message db "Hello, world!", nl
-    message_len equ $-message
+section .rodata
+    msg:    db 'hello, world', 10
+    msglen: equ $-msg
 
 section .text
-
-global _start
-_start:
-    mov rax, sys_write
-    mov rdi, stdout
-    mov rsi, message
-    mov rdx, message_len
-    syscall
-
-    mov rax, sys_exit
-    mov rdi, success
-    syscall
+    main:
+        ; write(1, msg, msglen)
+        mov rdi, 1
+        mov rsi, msg
+        mov rdx, msglen
+        mov rax, 1
+        syscall
 ```
