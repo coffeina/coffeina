@@ -1,11 +1,11 @@
-### Define Design Develop Automate 👋 
+### Define Design Develop Automate
 ![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e)
 
 * Full Stack Engineer
 * Rev Engineering
 * DevOps
-* How to reach me: ... [Hands On Programming](https://www.handsonprogramming.io)
-
+* Robotics
+* InfoSec
 
 ## Get in touch :mailbox:
 
