@@ -7,7 +7,7 @@
 * InfoSec
 * Get me to do it for you ;)
 
-![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e) <a href="https://www.handsonprogramming.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.handsonprogramming.io-blue?style=flat&logo=google-chrome"></a> <a href="https://www.linkedin.com/in/andrzejdubaj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e) <a href="https://www.handsonprogramming.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.handsonprogramming.io-blue?style=flat&logo=google-chrome"></a> <a href="https://www.linkedin.com/in/andrzejdubaj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrzej%20Dubaj-blue?style=flat-square&logo=linkedin"></a>
 
 ``` asm
 section .rodata
