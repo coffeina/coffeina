@@ -1,4 +1,4 @@
-### Define Design Develop Automate
+# Define Design Develop Automate
 ![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e)
 
 * Full Stack Engineer
@@ -7,7 +7,7 @@
 * Robotics
 * InfoSec
 
-## Get in touch
+# Get in touch
 
 * Twitter: <https://twitter.com/AndrzejDubaj>
 * LinkedIn: <https://www.linkedin.com/in/andrzejdubaj/>
