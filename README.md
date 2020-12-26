@@ -7,8 +7,8 @@
 * Robotics
 * InfoSec
 
-## Get in touch :mailbox:
+## Get in touch
 
-* :point_right: Twitter: <https://twitter.com/AndrzejDubaj>
-* :point_right: LinkedIn: <https://www.linkedin.com/in/andrzejdubaj/>
-* :point_right: Blog: <https://www.handsonprogramming.io/>
+* Twitter: <https://twitter.com/AndrzejDubaj>
+* LinkedIn: <https://www.linkedin.com/in/andrzejdubaj/>
+* Blog: <https://www.handsonprogramming.io/>
