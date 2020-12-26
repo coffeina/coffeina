@@ -13,6 +13,7 @@
 * LinkedIn: <https://www.linkedin.com/in/andrzejdubaj/>
 * Blog: <https://www.handsonprogramming.io/>
 
+``` asm
 %define sys_write 1
 %define stdout 1
 
@@ -39,3 +40,4 @@ _start:
     mov rax, sys_exit
     mov rdi, success
     syscall
+```
