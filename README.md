@@ -5,6 +5,7 @@
 * DevOps
 * Robotics
 * InfoSec
+* Get me to do it for you ;)
 
 ![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e)
 
