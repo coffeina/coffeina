@@ -1,15 +1,10 @@
 ### Define Design Develop Automate 👋 
 ![](https://komarev.com/ghpvc/?username=coffeina&color=ee959e)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently working with ... JavaScript, React, Java
-- 👯 I’m looking to collaborate on ... React
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Hands On Programming](https://www.handsonprogramming.io)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... :P
+* Full Stack Engineer
+* Rev Engineering
+* DevOps
+* How to reach me: ... [Hands On Programming](https://www.handsonprogramming.io)
 
 
 ## Get in touch :mailbox:
