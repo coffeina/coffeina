@@ -23,7 +23,3 @@ section .text
         mov rax, 1
         syscall
 ```
-
-# Get in touch
-
-* Twitter: <https://twitter.com/AndrzejDubaj>
